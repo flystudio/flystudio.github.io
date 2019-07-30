@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>XHC的临时窗体</title>
+  <title>XHC</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-27T09:38:49.116Z</updated>
+  <updated>2019-07-30T10:41:13.866Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,43 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇博客文章</title>
-    <link href="http://yoursite.com/2019/07/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2019/07/26/我的第一篇博客文章/</id>
-    <published>2019-07-26T11:07:42.000Z</published>
-    <updated>2019-07-27T09:38:49.116Z</updated>
+    <title>活在当下、过去、未来谁更幸福？</title>
+    <link href="http://yoursite.com/2019/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2019/07/30/第一篇/</id>
+    <published>2019-07-30T10:33:35.000Z</published>
+    <updated>2019-07-30T10:41:13.866Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容:徐HC&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-      <category term="闹着玩的" scheme="http://yoursite.com/tags/%E9%97%B9%E7%9D%80%E7%8E%A9%E7%9A%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/07/26/hello-world/"/>
-    <id>http://yoursite.com/2019/07/26/hello-world/</id>
-    <published>2019-07-26T08:11:45.999Z</published>
-    <updated>2019-07-27T09:38:38.876Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+      
+      
+        
+        
+          &lt;table&gt;&lt;tr&gt;&lt;td bgcolor=&quot;black&quot;&gt;&lt;font face=&quot;黑体&quot; color=&quot;white&quot;&gt;等我......就不会这么焦虑了？&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;img
+        
+      
     
     </summary>
     
-      <category term="初始化" scheme="http://yoursite.com/categories/%E5%88%9D%E5%A7%8B%E5%8C%96/"/>
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
