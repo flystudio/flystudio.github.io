@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-07T16:23:16.803Z</updated>
+  <updated>2019-09-04T13:00:48.270Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A</title>
+    <link href="http://yoursite.com/2019/09/04/%E7%AC%AC%E5%9B%9B%E7%AF%87/"/>
+    <id>http://yoursite.com/2019/09/04/第四篇/</id>
+    <published>2019-09-04T11:28:55.000Z</published>
+    <updated>2019-09-04T13:00:48.270Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;table&gt;&lt;tr&gt;&lt;td bgcolor=&quot;gray&quot;&gt;&lt;center&gt;&lt;font size=&quot;4&quot; face=&quot;黑体&quot; color=&quot;pink&quot; text-align=&quot;center&quot;&gt;JUST CONTROL MY
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>即将到来的Coding Day——之写给拖延症的我</title>
